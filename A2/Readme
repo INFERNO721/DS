@@ -1,0 +1,7 @@
+Steps
+
+
+javac 
+rmiregistry
+java AddServer            (in new terminal )
+java                                 (in new terminal )
